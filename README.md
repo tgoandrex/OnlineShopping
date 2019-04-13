@@ -2,7 +2,7 @@
 An online shopping application using Java!
 
 Description:
-Online shopping application similar concept to Amazon or Ebay.
+Online shopping application similar concept to Amazon or other store websites.
 Built with Java, Hibernate, Bootstrap, Servlets, JSPs, PostgreSQL, Wildfly.
 Two defined user roles: User and Admin.
 Admins can create, view, update, and delete products and categories. Products can be assigned or unassigned to a created category.
